@@ -97,3 +97,6 @@ hibernate.cfg.xml
 
 # target folder
 target/
+
+# angular node_modules
+node_modules
