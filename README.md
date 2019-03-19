@@ -1,7 +1,7 @@
 # Media Binge Client Tier 
 
 ## Description
-This is the client tier for the app Media Binge a service allows you to discover new media based off of recommendations 
+This is the client tier for the app Media Binge a service allows you to discover new media based off of user recommendations 
 
 ## Contributors 
 
